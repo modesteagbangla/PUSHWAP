@@ -1,2 +1,4 @@
 # PUSHWAP
-Algorithme de tri de données 
+Data sorting algorithm.
+make
+./pushwap (list of numbers to sort)
